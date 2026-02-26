@@ -4,8 +4,6 @@
 ## Introduction
 This project is an interactive sales dashboard created in Microsoft Excel to analyze and visualize Adidas sales data of United States
 
-## Dashboard File
-My final dashboard is in
 
 ## Excel Skills Used
 The following Excel skills were utilized for analysis:
